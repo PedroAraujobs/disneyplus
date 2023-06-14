@@ -28,16 +28,75 @@ a{
 }
 .banner{
     background-image: url("./imagens/disney.png");
-    height: 80vh;
+    height: 70vh;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
 }
-.conteudo{
+.filmes{
     display: inline-block;
-    height: 60vh;
-    padding-inline: 3vh;
+    height: 50vh;
+    padding-inline: 4.3vh;
     margin-top: 3vh;
+    margin-right: 4vh;
+    margin-bottom: 3vh;
     
     
 }
+
+.filmes:hover{
+    scale: 1.08; opacity: 0.95;
+}
+
+.guia:hover{
+    scale: 1.03;
+}
+
+footer{
+    background-color: #1E1E1E;]
+    width: 100%;
+    box-sizing: border-box;
+    height: 60px;
+    
+    
+}
+
+.direitos{
+    color:rgb(250, 247, 244);
+    font-family: 'Actor', sans-serif;
+    height: 0.5vh;
+    text-align-last: left;
+    
+}
+
+.redes1{
+
+    height: 4vh;
+    display: inline;
+    margin-right: 0.3vh;
+    margin-bottom: 0.7vh;
+    width:auto
+
+
+    
+
+}
+
+.redes2{
+    height: 5vh;
+    display: inline;
+    margin-right: 0.3vh;
+    margin-bottom: 0,5vh;
+    width:auto
+    
+}
+
+.redes3{
+    height: 7vh;
+    display: inline;
+    margin-right: 0.2vh;
+    width:auto;
+    align
+
+}
+
